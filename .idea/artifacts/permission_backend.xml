@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="permission-backend">
+    <output-path>$PROJECT_DIR$/out/artifacts/permission_backend</output-path>
+    <root id="archive" name="permission-backend.war" />
+  </artifact>
+</component>
